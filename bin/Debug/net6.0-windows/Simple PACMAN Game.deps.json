@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Simple PACMAN Game/1.0.0": {
+        "runtime": {
+          "Simple PACMAN Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple PACMAN Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
